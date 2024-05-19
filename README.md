@@ -1,2 +1,2 @@
-# All-in-one-calculatory
+# All-in-one-calculator
 this is my first project
